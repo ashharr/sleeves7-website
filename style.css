@@ -1,0 +1,29 @@
+.header {
+font-family: sans-serif;
+}
+img {
+ height: auto;
+ width: 40px;
+}
+#title-font {
+    text-shadow: 0.5px 1px;
+    font-size: x-large;
+    color: #B21417;
+}
+.tp {
+    /* margin-bottom: 20px; */
+    width: 15px;
+    margin-right: 0%;
+    margin-left: 30px;
+    position: relative;
+}
+.number {
+    margin-left: 5px;
+    margin-right: 0%;
+    position: relative;
+}
+.info {
+    display: inline-block;
+    font-size: small;
+    align-items: center;
+}
