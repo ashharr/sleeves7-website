@@ -8,7 +8,11 @@ img {
 #title-font {
     text-shadow: 0.5px 1px;
     font-size: x-large;
-    color: #B21417;
+    color: #d61d1d;
+}
+.ml-3{
+    color: #FF2121;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .tp {
     /* margin-bottom: 20px; */
